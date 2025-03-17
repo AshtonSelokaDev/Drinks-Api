@@ -25,7 +25,7 @@ This allows for drink information to be presented to the user.
 ## Lessons Learnt
 
 Through this project,
-I was able to learnt about .Nets HttpClient and how to interact with external Api's
+I was able to learn about .Nets HttpClient and how to interact with external Api's
 I experienced challenges regarding deserializing the JSON data but came across C#'s Record class
 This allowed for easy binding of information to my drinks object.
 
