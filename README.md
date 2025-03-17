@@ -14,13 +14,13 @@ This allows for drink information to be presented to the user.
  ## UI Samples
  
 ### Main Menu
-![Main Menu](https://github.com/AshtonLeeSeloka/Drinks.AshtonLeeSeloka/blob/master/Drinks.AshtonLeeSeloka/Resources/Screenshot%202025-01-22%20221043.png)
+![Main Menu](https://github.com/AshtonSelokaDev/Drinks-Api/blob/main/Drinks.AshtonLeeSeloka/Resources/Screenshot%202025-01-22%20221043.png)
 
 ### Drink Selection Menu
-![Drinks selection menu](https://github.com/AshtonLeeSeloka/Drinks.AshtonLeeSeloka/blob/master/Drinks.AshtonLeeSeloka/Resources/Screenshot%202025-01-22%20221135.png)
+![Drinks selection menu](https://github.com/AshtonSelokaDev/Drinks-Api/blob/main/Drinks.AshtonLeeSeloka/Resources/Screenshot%202025-01-22%20221135.png)
 
 ### Drink Info Menu
-![info](https://github.com/AshtonLeeSeloka/Drinks.AshtonLeeSeloka/blob/master/Drinks.AshtonLeeSeloka/Resources/Screenshot%202025-01-22%20221211.png)
+![info](https://github.com/AshtonSelokaDev/Drinks-Api/blob/main/Drinks.AshtonLeeSeloka/Resources/Screenshot%202025-01-22%20221211.png)
 
 ## Lessons Learnt
 
